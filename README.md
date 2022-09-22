@@ -138,10 +138,6 @@
 
 因为它们绝大部分是支持 APACHE + MIT 双协议的，因此我们选择了遵循其中的 MIT 协议，并在这里统一对借鉴的书籍进行说明。
 
-## 社区 & 读者交流
 
-- 知乎: [孙飞 Sunface](https://www.zhihu.com/people/iSunface)
-- QQ 群 `1009730433`，用于日常技术交流
-- 微信公众号: 扫描下面的二维码关注公众号 `Rust语言中文网`
 
 <img src="https://github.com/sunface/rust-course/blob/main/assets/studyrust公众号.png?raw=true" />
